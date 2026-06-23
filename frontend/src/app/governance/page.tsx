@@ -15,12 +15,14 @@ export default function GovernancePage() {
           </a>
           . See{" "}
           <a
-            href="/docs/MODULE_BOUNDARY.md"
+            href="https://github.com/Stellar-Re-Code/StellarPay/blob/main/docs/MODULE_BOUNDARY.md"
             className="underline hover:text-yellow-200"
+            target="_blank"
+            rel="noopener noreferrer"
           >
-            docs/MODULE_BOUNDARY.md
-          </a>{" "}
-          for the migration plan.
+            the migration plan
+          </a>
+          {" "}for details.
         </p>
       </div>
       <h1 className="text-3xl font-bold mb-6">Governance</h1>
