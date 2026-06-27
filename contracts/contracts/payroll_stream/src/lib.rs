@@ -372,3 +372,4 @@ impl PayrollStreamContract {
 }
 
 mod test;
+mod test_sentinel_auth;
